@@ -18,3 +18,9 @@ To get the game up and running on your local machine, follow these simple steps:
    ```bash
    git clone https://github.com/Deathbringer98/Pacman-Web-App.git
    cd Pacman-Web-App
+## Gameplay
+
+![image](https://github.com/Deathbringer98/Pacman-Web-App/assets/73149745/25f1a32e-f30b-4b1d-a398-a006e7ca6007)
+
+![image](https://github.com/Deathbringer98/Pacman-Web-App/assets/73149745/f34efc7c-c27a-46b7-a54e-e1d09a416fad)
+
