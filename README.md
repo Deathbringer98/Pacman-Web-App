@@ -7,7 +7,7 @@ Welcome to the Pac-Man Game project! This implementation of the classic Pac-Man 
 - Classic Pac-Man gameplay
 - Responsive design for playing on any device
 - Score tracking with high score memory
-- Audio feedback for game actions
+- Audio feedback for game actions // Currently not working will update with patch
 
 ## Installation
 
