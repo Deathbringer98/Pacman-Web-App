@@ -1,6 +1,6 @@
 # Pac-Man Game
 
-Welcome to the Pac-Man Game project! This implementation of the classic Pac-Man game was designed and developed by Matthew Menchinton. Dive into the nostalgic world of this arcade classic right from your browser. Eat pills, dodge ghosts, and collect points as you navigate through the maze.
+Welcome to the Pac-Man Game project! This implementation of the classic Pac-Man game was designed and developed by myself. Dive into the nostalgic world of this arcade classic right from your browser. Eat pills, dodge ghosts, and collect points as you navigate through the maze.
 
 ## Features
 
