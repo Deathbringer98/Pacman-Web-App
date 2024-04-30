@@ -5,7 +5,7 @@ Welcome to the Pac-Man Game project! This implementation of the classic Pac-Man 
 ## Features
 
 - Classic Pac-Man gameplay
-- Responsive design for playing on any device
+- Responsive design for playing on any device // Currently only works on web browser will update with patch.
 - Score tracking with high score memory
 - Audio feedback for game actions // Currently not working will update with patch
 
